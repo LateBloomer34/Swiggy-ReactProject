@@ -1,0 +1,31 @@
+{
+  "name": "swiggy",
+  "version": "1.0.0",
+  "description": "swiggy using react",
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LateBloomer34/Swiggy-ReactProject.git"
+  },
+  "keywords": [
+    "swiggy",
+    "website"
+  ],
+  "author": "himanshu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LateBloomer34/Swiggy-ReactProject/issues"
+  },
+  "homepage": "https://github.com/LateBloomer34/Swiggy-ReactProject#readme",
+  "devDependencies": {
+    "parcel": "^2.16.3"
+  },
+  "dependencies": {
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3"
+  }
+}
